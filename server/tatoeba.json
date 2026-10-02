@@ -1,0 +1,482 @@
+[
+  {
+    "id": 113905499,
+    "category": "real",
+    "en": "Tom drank too much coffee.",
+    "ru": "Том выпил слишком много кофе.",
+    "englishSource": {
+      "id": 13905499,
+      "owner": "kylewii",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13905595,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 113905497,
+    "category": "real",
+    "en": "He drank too much coffee.",
+    "ru": "Он выпил слишком много кофе.",
+    "englishSource": {
+      "id": 13905497,
+      "owner": "kylewii",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13905593,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 113749602,
+    "category": "real",
+    "en": "The coffee is excessively sweet.",
+    "ru": "Кофе чрезмерно сладкий.",
+    "englishSource": {
+      "id": 13749602,
+      "owner": "IMer",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13749644,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 113480738,
+    "category": "real",
+    "en": "I want coffee without sugar.",
+    "ru": "Я хочу кофе без сахара.",
+    "englishSource": {
+      "id": 13480738,
+      "owner": "epiphany",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13481079,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 113448994,
+    "category": "real",
+    "en": "She likes tea over coffee.",
+    "ru": "Чай ей нравится больше, чем кофе.",
+    "englishSource": {
+      "id": 13448994,
+      "owner": "rul",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13449022,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 113448993,
+    "category": "real",
+    "en": "She prefers tea to coffee.",
+    "ru": "Чай ей нравится больше, чем кофе.",
+    "englishSource": {
+      "id": 13448993,
+      "owner": "rul",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13449022,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112964630,
+    "category": "real",
+    "en": "Is this tea or coffee?",
+    "ru": "Это чай или кофе?",
+    "englishSource": {
+      "id": 12964630,
+      "owner": "sundown",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12741944,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112964629,
+    "category": "real",
+    "en": "Is that tea or coffee?",
+    "ru": "Это чай или кофе?",
+    "englishSource": {
+      "id": 12964629,
+      "owner": "sundown",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12741944,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112925936,
+    "category": "real",
+    "en": "I hate coffee without sugar.",
+    "ru": "Ненавижу кофе без сахара.",
+    "englishSource": {
+      "id": 12925936,
+      "owner": "araneo",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 5314444,
+      "owner": "odexed",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112925018,
+    "category": "real",
+    "en": "They're drinking coffee together.",
+    "ru": "Они вместе пьют кофе.",
+    "englishSource": {
+      "id": 12925018,
+      "owner": "araneo",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 8819711,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112921708,
+    "category": "real",
+    "en": "Sorry, the coffee is cold.",
+    "ru": "Простите, кофе холодный.",
+    "englishSource": {
+      "id": 12921708,
+      "owner": "araneo",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12921715,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112891085,
+    "category": "real",
+    "en": "Do you not drink coffee?",
+    "ru": "Вы не пьёте кофе?",
+    "englishSource": {
+      "id": 12891085,
+      "owner": "araneo",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 11261076,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112476599,
+    "category": "real",
+    "en": "The coffee tastes weird today.",
+    "ru": "Кофе сегодня странный на вкус.",
+    "englishSource": {
+      "id": 12476599,
+      "owner": "sundown",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12476603,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112468977,
+    "category": "real",
+    "en": "Tom prefers coffee to tea.",
+    "ru": "Том предпочитает кофе чаю.",
+    "englishSource": {
+      "id": 12468977,
+      "owner": "ddnktr",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12468930,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112400876,
+    "category": "real",
+    "en": "I would like a coffee.",
+    "ru": "Я хотел бы чашку кофе.",
+    "englishSource": {
+      "id": 12400876,
+      "owner": "Nero",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 6930834,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112390007,
+    "category": "real",
+    "en": "I prefer cola to coffee.",
+    "ru": "Я предпочитаю колу, а не кофе.",
+    "englishSource": {
+      "id": 12390007,
+      "owner": "AlanF_US",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 4767973,
+      "owner": "odexed",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112302975,
+    "category": "real",
+    "en": "She made me some coffee.",
+    "ru": "Она сварила мне кофе.",
+    "englishSource": {
+      "id": 12302975,
+      "owner": "ddnktr",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 10327205,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112265417,
+    "category": "real",
+    "en": "It smells of strong coffee.",
+    "ru": "Пахнет крепким кофе.",
+    "englishSource": {
+      "id": 12265417,
+      "owner": "sundown",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12758231,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112236041,
+    "category": "real",
+    "en": "Italians don't drink coffee.",
+    "ru": "Итальянцы не пьют кофе.",
+    "englishSource": {
+      "id": 12236041,
+      "owner": "Miktsoanit",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 3709068,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112194844,
+    "category": "real",
+    "en": "Coffee is my favourite drink.",
+    "ru": "Кофе — мой любимый напиток.",
+    "englishSource": {
+      "id": 12194844,
+      "owner": "sundown",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 13755115,
+      "owner": "Wezel",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112123490,
+    "category": "real",
+    "en": "Thanks, but I prefer coffee.",
+    "ru": "Спасибо, но я предпочитаю кофе.",
+    "englishSource": {
+      "id": 12123490,
+      "owner": "shekitten",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 9159895,
+      "owner": "ZegPhig",
+      "license": "CC0 1.0"
+    }
+  },
+  {
+    "id": 112049579,
+    "category": "real",
+    "en": "I've quit drinking coffee.",
+    "ru": "Я бросил пить кофе.",
+    "englishSource": {
+      "id": 12049579,
+      "owner": "CK",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 12050902,
+      "owner": "Wezel",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 112049578,
+    "category": "real",
+    "en": "I've stopped drinking coffee.",
+    "ru": "Я перестал пить кофе.",
+    "englishSource": {
+      "id": 12049578,
+      "owner": "CK",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 5415663,
+      "owner": "sharptoothed",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111857085,
+    "category": "real",
+    "en": "Does her father drink coffee?",
+    "ru": "Её отец пьет кофе?",
+    "englishSource": {
+      "id": 11857085,
+      "owner": "ddnktr",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 1788651,
+      "owner": "Balamax",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111837713,
+    "category": "real",
+    "en": "Coffee is my favorite drink.",
+    "ru": "Кофе - мой любимый напиток.",
+    "englishSource": {
+      "id": 11837713,
+      "owner": "Lemmih",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 11856957,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111833806,
+    "category": "real",
+    "en": "I drank too much coffee.",
+    "ru": "Я выпил слишком много кофе.",
+    "englishSource": {
+      "id": 11833806,
+      "owner": "ddnktr",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 2810145,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111817837,
+    "category": "real",
+    "en": "Get me a coffee too.",
+    "ru": "Возьми мне тоже кофе.",
+    "englishSource": {
+      "id": 11817837,
+      "owner": "ddnktr",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 11817834,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111641763,
+    "category": "real",
+    "en": "Do you want a coffee?",
+    "ru": "Хотите чашечку кофе?",
+    "englishSource": {
+      "id": 11641763,
+      "owner": "Adelpa",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 8018095,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111579683,
+    "category": "real",
+    "en": "I've brought some coffee.",
+    "ru": "Я принес кофе.",
+    "englishSource": {
+      "id": 11579683,
+      "owner": "deniko",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 11579709,
+      "owner": "retr0ra1n",
+      "license": "CC BY 2.0 FR"
+    }
+  },
+  {
+    "id": 111249642,
+    "category": "real",
+    "en": "The coffee was very hot.",
+    "ru": "Кофе был очень горячий.",
+    "englishSource": {
+      "id": 11249642,
+      "owner": "carlosalberto",
+      "license": "CC BY 2.0 FR"
+    },
+    "russianSource": {
+      "id": 10742520,
+      "owner": "marafon",
+      "license": "CC BY 2.0 FR"
+    }
+  }
+]

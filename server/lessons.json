@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "category": "everyday",
+    "en": "I like to start my day with a cup of coffee",
+    "ru": "Мне нравится начинать день с чашки кофе"
+  },
+  {
+    "id": 2,
+    "category": "everyday",
+    "en": "The best things in life are often simple",
+    "ru": "Лучшие вещи в жизни часто просты"
+  },
+  {
+    "id": 3,
+    "category": "everyday",
+    "en": "I usually go for a walk after work",
+    "ru": "Обычно я хожу на прогулку после работы"
+  },
+  {
+    "id": 4,
+    "category": "everyday",
+    "en": "Could you open the window, please?",
+    "ru": "Не могли бы вы открыть окно, пожалуйста?"
+  },
+  {
+    "id": 5,
+    "category": "everyday",
+    "en": "There is a small park near my house",
+    "ru": "Рядом с моим домом есть небольшой парк"
+  },
+  {
+    "id": 6,
+    "category": "everyday",
+    "en": "I don't have any plans for this evening",
+    "ru": "У меня нет планов на этот вечер"
+  },
+  {
+    "id": 7,
+    "category": "everyday",
+    "en": "She is reading a book in the living room",
+    "ru": "Она читает книгу в гостиной"
+  },
+  {
+    "id": 8,
+    "category": "everyday",
+    "en": "We have enough time to finish this today",
+    "ru": "У нас достаточно времени, чтобы закончить это сегодня"
+  },
+  {
+    "id": 9,
+    "category": "everyday",
+    "en": "What do you usually do on weekends?",
+    "ru": "Что ты обычно делаешь по выходным?"
+  },
+  {
+    "id": 10,
+    "category": "everyday",
+    "en": "Learning something new takes time and practice",
+    "ru": "Изучение чего-то нового требует времени и практики"
+  },
+  {
+    "id": 11,
+    "category": "travel",
+    "en": "I would like to book a room for two nights",
+    "ru": "Я хотел бы забронировать номер на две ночи"
+  },
+  {
+    "id": 12,
+    "category": "travel",
+    "en": "Where is the nearest train station?",
+    "ru": "Где находится ближайшая железнодорожная станция?"
+  },
+  {
+    "id": 13,
+    "category": "travel",
+    "en": "How long does it take to get to the airport?",
+    "ru": "Сколько времени занимает дорога до аэропорта?"
+  },
+  {
+    "id": 14,
+    "category": "travel",
+    "en": "Could I have the menu, please?",
+    "ru": "Можно мне меню, пожалуйста?"
+  },
+  {
+    "id": 15,
+    "category": "travel",
+    "en": "I would like a table for two by the window",
+    "ru": "Я хотел бы столик на двоих у окна"
+  },
+  {
+    "id": 16,
+    "category": "travel",
+    "en": "Is breakfast included in the price?",
+    "ru": "Завтрак включён в стоимость?"
+  },
+  {
+    "id": 17,
+    "category": "travel",
+    "en": "I am looking for a quiet place to stay",
+    "ru": "Я ищу тихое место, где можно остановиться"
+  },
+  {
+    "id": 18,
+    "category": "travel",
+    "en": "Can you show me the way on the map?",
+    "ru": "Можете показать мне дорогу на карте?"
+  },
+  {
+    "id": 19,
+    "category": "travel",
+    "en": "We need to leave early tomorrow morning",
+    "ru": "Нам нужно уехать рано завтра утром"
+  },
+  {
+    "id": 20,
+    "category": "travel",
+    "en": "This is my first time visiting this city",
+    "ru": "Я впервые в этом городе"
+  },
+  {
+    "id": 21,
+    "category": "work",
+    "en": "Let me know if you have any questions",
+    "ru": "Дай мне знать, если у тебя будут вопросы"
+  },
+  {
+    "id": 22,
+    "category": "work",
+    "en": "I will send you the details later today",
+    "ru": "Я отправлю тебе подробности позже сегодня"
+  },
+  {
+    "id": 23,
+    "category": "work",
+    "en": "We should discuss this at our next meeting",
+    "ru": "Нам стоит обсудить это на следующей встрече"
+  },
+  {
+    "id": 24,
+    "category": "work",
+    "en": "Could you explain that in a different way?",
+    "ru": "Не могли бы вы объяснить это по-другому?"
+  },
+  {
+    "id": 25,
+    "category": "work",
+    "en": "I am working on a new project this week",
+    "ru": "На этой неделе я работаю над новым проектом"
+  },
+  {
+    "id": 26,
+    "category": "work",
+    "en": "Let's take a short break and come back to this",
+    "ru": "Давай сделаем небольшой перерыв и вернёмся к этому"
+  },
+  {
+    "id": 27,
+    "category": "work",
+    "en": "Thank you for getting back to me so quickly",
+    "ru": "Спасибо, что так быстро ответили мне"
+  },
+  {
+    "id": 28,
+    "category": "work",
+    "en": "The deadline for this task is next Friday",
+    "ru": "Крайний срок этой задачи — следующая пятница"
+  },
+  {
+    "id": 29,
+    "category": "work",
+    "en": "I think we can find a better solution",
+    "ru": "Думаю, мы можем найти решение лучше"
+  },
+  {
+    "id": 30,
+    "category": "work",
+    "en": "Please check the document before you send it",
+    "ru": "Пожалуйста, проверь документ перед отправкой"
+  },
+  {
+    "id": 1000,
+    "category": "everyday",
+    "en": "Could you say that a little more slowly?",
+    "ru": "Можешь сказать это чуть медленнее?"
+  },
+  {
+    "id": 1001,
+    "category": "everyday",
+    "en": "Sorry, I didn't catch the last part",
+    "ru": "Извини, я не расслышал последнюю часть"
+  },
+  {
+    "id": 1002,
+    "category": "everyday",
+    "en": "What time works best for you?",
+    "ru": "Какое время тебе больше всего подходит?"
+  },
+  {
+    "id": 1003,
+    "category": "everyday",
+    "en": "I'm running a few minutes late",
+    "ru": "Я опаздываю на несколько минут"
+  },
+  {
+    "id": 1004,
+    "category": "everyday",
+    "en": "Would you like to grab a coffee?",
+    "ru": "Хочешь выпить кофе?"
+  },
+  {
+    "id": 1005,
+    "category": "everyday",
+    "en": "I'll let you know when I get there",
+    "ru": "Я дам тебе знать, когда доберусь"
+  },
+  {
+    "id": 1006,
+    "category": "everyday",
+    "en": "Do you mind if I sit here?",
+    "ru": "Ты не против, если я сяду здесь?"
+  },
+  {
+    "id": 1007,
+    "category": "everyday",
+    "en": "That sounds good to me",
+    "ru": "Меня это устраивает"
+  },
+  {
+    "id": 1008,
+    "category": "everyday",
+    "en": "Could you give me a hand with this?",
+    "ru": "Можешь помочь мне с этим?"
+  },
+  {
+    "id": 1009,
+    "category": "everyday",
+    "en": "I'm not sure what you mean",
+    "ru": "Я не совсем понимаю, что ты имеешь в виду"
+  },
+  {
+    "id": 1010,
+    "category": "everyday",
+    "en": "Let me think about it for a moment",
+    "ru": "Дай мне немного подумать"
+  },
+  {
+    "id": 1011,
+    "category": "everyday",
+    "en": "Thanks for letting me know",
+    "ru": "Спасибо, что сообщил"
+  },
+  {
+    "id": 1012,
+    "category": "friends",
+    "en": "How has your week been so far?",
+    "ru": "Как проходит твоя неделя?"
+  },
+  {
+    "id": 1013,
+    "category": "friends",
+    "en": "What do you do in your free time?",
+    "ru": "Чем ты занимаешься в свободное время?"
+  },
+  {
+    "id": 1014,
+    "category": "friends",
+    "en": "Have you seen any good films lately?",
+    "ru": "Ты смотрел какие-нибудь хорошие фильмы в последнее время?"
+  },
+  {
+    "id": 1015,
+    "category": "friends",
+    "en": "How do you know each other?",
+    "ru": "Откуда вы знаете друг друга?"
+  },
+  {
+    "id": 1016,
+    "category": "friends",
+    "en": "I've recently started learning English",
+    "ru": "Недавно я начал учить английский"
+  },
+  {
+    "id": 1017,
+    "category": "friends",
+    "en": "Would you like to join us this weekend?",
+    "ru": "Хочешь присоединиться к нам в эти выходные?"
+  },
+  {
+    "id": 1018,
+    "category": "friends",
+    "en": "It was really nice talking to you",
+    "ru": "Было очень приятно с тобой пообщаться"
+  },
+  {
+    "id": 1019,
+    "category": "friends",
+    "en": "We should catch up sometime soon",
+    "ru": "Нам стоит как-нибудь скоро встретиться и поболтать"
+  },
+  {
+    "id": 1020,
+    "category": "friends",
+    "en": "Is there anything you would recommend?",
+    "ru": "Можешь что-нибудь посоветовать?"
+  },
+  {
+    "id": 1021,
+    "category": "friends",
+    "en": "I'm glad we finally got to meet",
+    "ru": "Рад, что мы наконец познакомились"
+  },
+  {
+    "id": 1022,
+    "category": "friends",
+    "en": "What got you interested in that?",
+    "ru": "Как ты этим заинтересовался?"
+  },
+  {
+    "id": 1023,
+    "category": "friends",
+    "en": "I haven't tried that before, but I'd love to",
+    "ru": "Я раньше этого не пробовал, но с удовольствием попробую"
+  },
+  {
+    "id": 1024,
+    "category": "shopping",
+    "en": "Could I get a coffee to go, please?",
+    "ru": "Можно мне кофе с собой, пожалуйста?"
+  },
+  {
+    "id": 1025,
+    "category": "shopping",
+    "en": "Can I pay by card?",
+    "ru": "Можно оплатить картой?"
+  },
+  {
+    "id": 1026,
+    "category": "shopping",
+    "en": "Do you have this in a different size?",
+    "ru": "У вас есть это другого размера?"
+  },
+  {
+    "id": 1027,
+    "category": "shopping",
+    "en": "Where can I try this on?",
+    "ru": "Где я могу это примерить?"
+  },
+  {
+    "id": 1028,
+    "category": "shopping",
+    "en": "I'm just looking, thank you",
+    "ru": "Я просто смотрю, спасибо"
+  },
+  {
+    "id": 1029,
+    "category": "shopping",
+    "en": "Could I have the receipt, please?",
+    "ru": "Можно мне чек, пожалуйста?"
+  },
+  {
+    "id": 1030,
+    "category": "shopping",
+    "en": "Does this contain any nuts?",
+    "ru": "В этом есть орехи?"
+  },
+  {
+    "id": 1031,
+    "category": "shopping",
+    "en": "Could we have the bill, please?",
+    "ru": "Можно нам счёт, пожалуйста?"
+  },
+  {
+    "id": 1032,
+    "category": "shopping",
+    "en": "I would like to return this item",
+    "ru": "Я хотел бы вернуть этот товар"
+  },
+  {
+    "id": 1033,
+    "category": "shopping",
+    "en": "Is there a cheaper option?",
+    "ru": "Есть вариант подешевле?"
+  },
+  {
+    "id": 1034,
+    "category": "shopping",
+    "en": "I'll have the same, please",
+    "ru": "Мне то же самое, пожалуйста"
+  },
+  {
+    "id": 1035,
+    "category": "shopping",
+    "en": "Could you leave out the onions?",
+    "ru": "Можете не добавлять лук?"
+  },
+  {
+    "id": 1036,
+    "category": "interview",
+    "en": "Thank you for inviting me to the interview",
+    "ru": "Спасибо, что пригласили меня на собеседование"
+  },
+  {
+    "id": 1037,
+    "category": "interview",
+    "en": "I have three years of experience in software development",
+    "ru": "У меня три года опыта в разработке программного обеспечения"
+  },
+  {
+    "id": 1038,
+    "category": "interview",
+    "en": "I am looking for an opportunity to grow professionally",
+    "ru": "Я ищу возможность для профессионального роста"
+  },
+  {
+    "id": 1039,
+    "category": "interview",
+    "en": "In my previous role, I worked closely with the design team",
+    "ru": "На предыдущей работе я тесно сотрудничал с командой дизайнеров"
+  },
+  {
+    "id": 1040,
+    "category": "interview",
+    "en": "I was responsible for developing and maintaining the application",
+    "ru": "Я отвечал за разработку и поддержку приложения"
+  },
+  {
+    "id": 1041,
+    "category": "interview",
+    "en": "Could you tell me more about the team?",
+    "ru": "Можете рассказать подробнее о команде?"
+  },
+  {
+    "id": 1042,
+    "category": "interview",
+    "en": "What would my main responsibilities be?",
+    "ru": "Какими будут мои основные обязанности?"
+  },
+  {
+    "id": 1043,
+    "category": "interview",
+    "en": "How do you measure success in this role?",
+    "ru": "Как вы оцениваете успешность работы на этой позиции?"
+  },
+  {
+    "id": 1044,
+    "category": "interview",
+    "en": "I am comfortable working independently and as part of a team",
+    "ru": "Мне комфортно работать как самостоятельно, так и в команде"
+  },
+  {
+    "id": 1045,
+    "category": "interview",
+    "en": "One of my strengths is breaking down complex problems",
+    "ru": "Одна из моих сильных сторон — умение разбивать сложные задачи на части"
+  },
+  {
+    "id": 1046,
+    "category": "interview",
+    "en": "I would be happy to walk you through a recent project",
+    "ru": "Я с удовольствием расскажу вам о недавнем проекте"
+  },
+  {
+    "id": 1047,
+    "category": "interview",
+    "en": "What are the next steps in the hiring process?",
+    "ru": "Какие следующие этапы процесса найма?"
+  },
+  {
+    "id": 1048,
+    "category": "interview",
+    "en": "Is this position fully remote or hybrid?",
+    "ru": "Эта позиция полностью удалённая или предполагает гибридный формат?"
+  },
+  {
+    "id": 1049,
+    "category": "interview",
+    "en": "Could you share the salary range for this position?",
+    "ru": "Можете назвать диапазон зарплаты для этой позиции?"
+  },
+  {
+    "id": 1050,
+    "category": "interview",
+    "en": "I can start two weeks after accepting an offer",
+    "ru": "Я могу приступить к работе через две недели после принятия предложения"
+  },
+  {
+    "id": 1051,
+    "category": "interview",
+    "en": "Could you clarify what you mean by that question?",
+    "ru": "Можете уточнить, что вы имеете в виду в этом вопросе?"
+  },
+  {
+    "id": 1052,
+    "category": "interview",
+    "en": "I learned a lot from that experience",
+    "ru": "Этот опыт многому меня научил"
+  },
+  {
+    "id": 1053,
+    "category": "interview",
+    "en": "I am happy to provide references if needed",
+    "ru": "При необходимости я готов предоставить рекомендации"
+  },
+  {
+    "id": 1054,
+    "category": "work",
+    "en": "Could you review my changes when you have a moment?",
+    "ru": "Можешь посмотреть мои изменения, когда будет время?"
+  },
+  {
+    "id": 1055,
+    "category": "work",
+    "en": "I need a bit more time to finish this task",
+    "ru": "Мне нужно немного больше времени, чтобы закончить эту задачу"
+  },
+  {
+    "id": 1056,
+    "category": "work",
+    "en": "I'm blocked by an issue with the API",
+    "ru": "Я не могу продвинуться из-за проблемы с API"
+  },
+  {
+    "id": 1057,
+    "category": "work",
+    "en": "Could we move the deadline to tomorrow?",
+    "ru": "Можем перенести срок на завтра?"
+  },
+  {
+    "id": 1058,
+    "category": "work",
+    "en": "I have a question about the requirements",
+    "ru": "У меня есть вопрос по требованиям"
+  },
+  {
+    "id": 1059,
+    "category": "work",
+    "en": "I'll keep you updated on the progress",
+    "ru": "Я буду держать тебя в курсе прогресса"
+  },
+  {
+    "id": 1060,
+    "category": "work",
+    "en": "Let me check and get back to you",
+    "ru": "Дай мне проверить, и я вернусь с ответом"
+  },
+  {
+    "id": 1061,
+    "category": "work",
+    "en": "Could you give me an example of the expected behavior?",
+    "ru": "Можешь привести пример ожидаемого поведения?"
+  },
+  {
+    "id": 1062,
+    "category": "work",
+    "en": "I found a bug and am working on a fix",
+    "ru": "Я нашёл ошибку и работаю над исправлением"
+  },
+  {
+    "id": 1063,
+    "category": "work",
+    "en": "Thanks for the feedback, I will update the document",
+    "ru": "Спасибо за обратную связь, я обновлю документ"
+  },
+  {
+    "id": 1064,
+    "category": "work",
+    "en": "Who should I contact about this issue?",
+    "ru": "К кому мне обратиться по этому вопросу?"
+  },
+  {
+    "id": 1065,
+    "category": "work",
+    "en": "I have pushed the changes for review",
+    "ru": "Я отправил изменения на проверку"
+  },
+  {
+    "id": 1066,
+    "category": "meetings",
+    "en": "Can everyone hear me clearly?",
+    "ru": "Все меня хорошо слышат?"
+  },
+  {
+    "id": 1067,
+    "category": "meetings",
+    "en": "Sorry, I was on mute",
+    "ru": "Извините, у меня был выключен микрофон"
+  },
+  {
+    "id": 1068,
+    "category": "meetings",
+    "en": "Let me share my screen",
+    "ru": "Позвольте мне показать свой экран"
+  },
+  {
+    "id": 1069,
+    "category": "meetings",
+    "en": "Could you repeat the last point?",
+    "ru": "Можете повторить последний пункт?"
+  },
+  {
+    "id": 1070,
+    "category": "meetings",
+    "en": "I agree with the overall approach",
+    "ru": "Я согласен с общим подходом"
+  },
+  {
+    "id": 1071,
+    "category": "meetings",
+    "en": "I see your point, but I have a concern",
+    "ru": "Я понимаю вашу мысль, но у меня есть опасение"
+  },
+  {
+    "id": 1072,
+    "category": "meetings",
+    "en": "Could we go over the main priorities?",
+    "ru": "Можем пройтись по основным приоритетам?"
+  },
+  {
+    "id": 1073,
+    "category": "meetings",
+    "en": "What do you think about this option?",
+    "ru": "Что вы думаете об этом варианте?"
+  },
+  {
+    "id": 1074,
+    "category": "meetings",
+    "en": "Let me summarize what we have agreed on",
+    "ru": "Позвольте мне подвести итог тому, о чём мы договорились"
+  },
+  {
+    "id": 1075,
+    "category": "meetings",
+    "en": "Who will be responsible for the next step?",
+    "ru": "Кто будет отвечать за следующий шаг?"
+  },
+  {
+    "id": 1076,
+    "category": "meetings",
+    "en": "Could you send the meeting notes afterwards?",
+    "ru": "Можете отправить заметки после встречи?"
+  },
+  {
+    "id": 1077,
+    "category": "meetings",
+    "en": "I have another meeting in ten minutes",
+    "ru": "У меня другая встреча через десять минут"
+  }
+]
